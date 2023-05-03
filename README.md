@@ -37,3 +37,13 @@ Decentralease is an NFT rental platform powered by the [ERC-4907 standard](https
 ### Real Vision Bot Portfolio
 
 The [Real Vision Bot Portfolio](https://github.com/hedblock/bot-portfolio) is a collective investment platform allowing holders of the Real Vision Pro Crypto NFT to allocate funds to a set of whitelisted tokens. I built this as a contractor for Real Vision, and it taught me a whole lot about DAO governance and web3 integrations through custom React hooks.
+
+### Vanderbilt Acorns
+
+[Vanderbilt Acorns](http://vanderbiltacorns.com/) is a Proof-of-Concept for a next-generation university community powered by NFTs. A Vanderbilt Acorn is an ERC-721M NFT that grants access to a token-gated ecosystem of integrations with web3 and web2 platforms:
+
+- Vanderbilt Syndicate Investment Club - a collective investment fund where users can deposit USDC and vote on investment decisions, such as buying ETH.
+- Vanderbilt Governance Snapshot - a governance platform where Acorn holders can propose and vote on Vanderbilt operational improvements. For instance, “Extend Munchie Mart hours to 2 AM during finals week.”
+- Acorns Google Workspace - a shared Google Drive with token-gated sharing access. Some possible applications include research papers, alumni records, and school contact lists.
+- Acorns GitHub Workspace - a shared GitHub workspace with token-gated access control. Could be used for open-source community work, job postings
+- Vanderbilt Discord - a private communication channel for Acorn holders
