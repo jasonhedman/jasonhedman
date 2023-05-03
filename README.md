@@ -14,9 +14,9 @@ I am currently focused on building dApps for the Aptos blockchain in Move, a nov
 
 [Satay Finance](https://app.satay.finance/) is an all-in-one DeFi portfolio management tool offering three interconnected products:
 
-1. **[Blocks](https://app.satay.finance/blocks)** - composable DeFi primitive operations through trusted third-party protocols
-2. **[Strategies](https://app.satay.finance/products)** - compositions of Blocks that facilitate multi-protocol yield generation
-3. **[Vaults](https://app.satay.finance/vaults)** - secure capital pools that optimize allocations to Blocks and Strategies to maximize yield
+1. [Blocks](https://app.satay.finance/blocks)** - composable DeFi primitive operations through trusted third-party protocols
+2. [Strategies](https://app.satay.finance/products)** - compositions of Blocks that facilitate multi-protocol yield generation
+3. [Vaults](https://app.satay.finance/vaults)** - secure capital pools that optimize allocations to Blocks and Strategies to maximize yield
 
 All of its source code, including the vault architecture, sample strategies, blocks, and partner interfaces are available on the [Satay GitHub organization](https://github.com/satay-protocol).
 
