@@ -23,3 +23,17 @@ All of its source code, including the vault architecture, sample strategies, blo
 ### Aptostream
 
 [Aptostream](https://www.aptostream.com/) is a continuous payment streamer on Aptos allowing users to send and receive funds in real time. The contracts are deployed on Aptos Testnet, and I am looking to integrate them into Aptos Arcade to facilitate NFT rentals. The repositories are closed source, but the web app is live.
+
+## EVM Projects
+
+Before moving to Aptos, I learned smart contract development by deploying Solidity contracts on Ethereum, Polygon, Avalanche, and Tron.
+
+### Decentralease
+
+I built [Decentralease](https://www.decentra.lease/) as a hackathon project while living in a Coinbase x Polygon hacker house in New York City. We were fortunate to win the hackathon, as well as the Tron Grand Hackathon Season 2! 
+
+Decentralease is an NFT rental platform powered by the [ERC-4907 standard](https://eips.ethereum.org/EIPS/eip-4907), enabling zero-collateral NFT rentals for gaming assets. ERC-4907 is an extension of [ERC-721](https://eips.ethereum.org/EIPS/eip-721) which adds an additional *user* role beyond the standard ******owner****** role, separating ownership and usage rights. This enables the asset owner to assign a user without giving up ownership privileges, standardizing the rental process. The platform unlocks liquidity for NFTs by allowing owners to earn income on their assets while also lowering barriers to entry for new users. The source code for the smart contracts and the dApp are available [here](https://github.com/decentralease).
+
+### Real Vision Bot Portfolio
+
+The [Real Vision Bot Portfolio](https://github.com/hedblock/bot-portfolio) is a collective investment platform allowing holders of the Real Vision Pro Crypto NFT to allocate funds to a set of whitelisted tokens. I built this as a contractor for Real Vision, and it taught me a whole lot about DAO governance and web3 integrations through custom React hooks.
