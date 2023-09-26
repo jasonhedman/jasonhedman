@@ -1,6 +1,6 @@
 # Hey, I’m Jason 👋
 
-I am an avid blockchain developer hacking on a few projects across gaming, DeFi, and NFTs. I am also a CS and Applied Math student at Vanderbilt University (on the side, I like to say 😄).
+I am an avid blockchain developer hacking on a few projects across gaming, DeFi, and NFTs. I am also a CS and Applied Math student at Vanderbilt University.
 
 ## Aptos-Move Projects
 
