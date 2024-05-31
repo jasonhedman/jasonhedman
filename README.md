@@ -6,7 +6,7 @@ My projects and contact information are available on my [personal website](https
 
 # Current Projects
 
-I am currently working on three projects in AI and blockchain. I love to experiment with new technologies and am always looking to collaborate.
+I am currently working on three projects in AI and blockchain.
 
 ## [ChatEDU](https://www.chatedu.io/)
 
