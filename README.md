@@ -68,9 +68,9 @@ Aptos Move, Typescript, Aptos Typescript SDK, Next.js
 
 ***All-in-one DeFi aggregator for Aptos offering three interconnected products:***
 
-1. [***Blocks](https://app.satay.finance/blocks) - composable DeFi primitive operations through trusted third-party protocols***
-2. [***Strategies](https://app.satay.finance/products) - compositions of Blocks that facilitate multi-protocol yield generation***
-3. [***Vaults](https://app.satay.finance/vaults) - secure capital pools that optimize allocations to Blocks and Strategies to maximize yield***
+1. [***Blocks***](https://app.satay.finance/blocks) - composable DeFi primitive operations through trusted third-party protocols***
+2. [***Strategies***](https://app.satay.finance/products) - compositions of Blocks that facilitate multi-protocol yield generation***
+3. [***Vaults***](https://app.satay.finance/vaults) - secure capital pools that optimize allocations to Blocks and Strategies to maximize yield***
 
 ![Satay](https://github.com/jasonhedman/jasonhedman/blob/main/Satay.png?raw=true)
 
