@@ -14,8 +14,6 @@ I am currently working on three projects in AI and blockchain. I love to experim
 
 ![ChatEDU](https://github.com/jasonhedman/jasonhedman/blob/main/ChatEDU.png?raw=true)
 
-![Source Code](https://img.shields.io/badge/Source_Code-green?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fchat-edu)
-
 **Technologies**
 
 OpenAI, Azure AI (Speech, Vision, Video Indexer, Document Intelligence), Azure Cosmos PostgreSQL, Typescript, Next.js
@@ -33,8 +31,6 @@ OpenAI, Azure AI (Speech, Vision, Video Indexer, Document Intelligence), Azure C
 
 ![BRAWL3R.png](https://github.com/jasonhedman/jasonhedman/blob/main/BRAWL3R.png?raw=true)
 
-![Source Code](https://img.shields.io/badge/Source_Code-green?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Faptos-arcade)
-
 **Technologies**
 
 Unity, C#, Photon Fusion, Aptos Move, Aptos Unity SDK, SQL, WebGL, Google Cloud, Typescript, Next.js
@@ -51,8 +47,6 @@ Unity, C#, Photon Fusion, Aptos Move, Aptos Unity SDK, SQL, WebGL, Google Cloud,
 ***A fully-on-chain decentralized casino powered by Aptos Verifiable Randomness***
 
 ![LLC](https://github.com/jasonhedman/jasonhedman/blob/main/LLC.png?raw=true)
-
-![Source Code](https://img.shields.io/badge/Source_Code-green?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fjasonhedman%2Faptosino)
 
 **Technologies**
 
@@ -74,37 +68,25 @@ Aptos Move, Typescript, Aptos Typescript SDK, Next.js
 
 ![Satay](https://github.com/jasonhedman/jasonhedman/blob/main/Satay.png?raw=true)
 
-![Source Code](https://img.shields.io/badge/Source_Code-green?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fsatay-protocol)
-
 ## [**Decentralease**](https://www.decentra.lease/)
 
 ***Zero-collateral NFT rental protocol leveraging ERC-4907; winner of the Coinbase x Polygon Hackathon in New York City and the Tron Grand Hackathon Season 2.***
-
-![Source Code](https://img.shields.io/badge/Source_Code-green?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fdecentralease)
 
 ## [**Aptostream**](https://www.aptostream.com/)
 
 ***Continuous payment streamer on Aptos, allowing users to send and receive funds in real-time***
 
-![Source Code](https://img.shields.io/badge/Source_Code-green?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fjasonhedman%2Faptostream-contracts)
-
 ## [**Vanderbilt Acorns**](http://vanderbiltacorns.com/)
 
 ***Proof-of-concept for an on-chain diploma system I built for VandyHacks 2022***
-
-![Source Code](https://img.shields.io/badge/Source_Code-green?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fjasonhedman%2Fvanderbilt-acorns)
 
 ## [PikApp](https://apps.apple.com/us/app/pikapp-mobile/id1475855291)
 
 ***A map-based mobile app I built in high school to learn how to code - allows users to create, find, and join pickup sporting events in their local area.***
 
-![Source Code](https://img.shields.io/badge/Source_Code-green?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fjasonhedman%2Fpikapp)
-
 ## Moneyline
 
 ***Decentralized betting market allowing users to trade sports teams as they might stocks; reached 2,000 users but couldn’t overcome regulatory concerns***
-
-![Source Code](https://img.shields.io/badge/Source_Code-green?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Ffantxchange)
 
 ## **Real Vision Bot Portfolio**
 
